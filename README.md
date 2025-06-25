@@ -139,3 +139,13 @@ A Java-based command-line application backed by PostgreSQL that supports user re
 - A renter signs up, adds multiple addresses, and links their credit cards to billing addresses
 - An agent signs up, lists new properties for rent, and updates pricing
 - Role enforcement prevents misuse (e.g. renters modifying properties)
+
+## 🙌 Contributors
+
+This project was originally developed as a team project for CS 425 - Database Organization at Illinois Tech.
+
+- 👩‍💻 Otioh Konan (this repo owner)
+- 👨‍💻 Damian Samano: [@dsamano1](https://github.com/dsamano1)
+- 👨‍💻 Edwin Huallpa: [@hl7joao](https://github.com/hl7joao)
+
+Team collaboration was handled via a shared private repository. This version is maintained by Otioh for demonstration and portfolio purposes.
